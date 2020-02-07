@@ -6,3 +6,5 @@
 [Iframe Embed element bootstrap template](https://getbootstrap.com/docs/4.0/utilities/embed/)
 
 [Form bootstrap template](https://bootstrapious.com/p/how-to-build-a-working-bootstrap-contact-form)
+
+[To convert Word to HTML ](https://wordhtml.com/)
