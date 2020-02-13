@@ -14,7 +14,7 @@
         <tr>
             <td>
                 <label for=" Total">Total: $</label>
-                <input type="number" id="total" >
+                <input type="number" id="total" onchange="calculateTax(this.value)">
             </td>
         </tr>
         <tr>
@@ -24,7 +24,7 @@
             </td>
             <td>
                 <label for=" Total">Rate: $</label>
-                <input type="number" id="rate">
+                <input type="number" id="rate" onchange="calculateTip(this.value)">
             </td>
         </tr>
         <tr>
