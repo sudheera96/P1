@@ -1,22 +1,22 @@
 body {
-    margin-top: 10px;
-    margin-left: 500px;
-    margin-right: 400px;
-    padding: 120;
+    width: 50%;
+    margin: 0 auto;
 }
 
 body h2 {
     text-align: center;
 }
 
-.total {
+.row {
     float: left;
     padding: 5px;
     margin: 5px;
 }
 
-p {
-    text-align: center;
+button {
+    border: 0;
+    background: #fff;
     color: skyblue;
-    font-weight: 20px;
+    font-size: 25px;
+    cursor: pointer;
 }
